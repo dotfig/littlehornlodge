@@ -1,2 +1,1 @@
-# littlehornlodge
-Website for Little Horn Lodge
+# Little Horn Lodge
